@@ -1,0 +1,123 @@
+html {
+    max-height: 100vh;
+    height: 100vh;
+}
+
+body {
+    background: linear-gradient(50deg, rgba(225, 225, 225, 0.66) 0, rgba(220, 220, 220, 0.92) 100%) no-repeat right top !important;
+    font-family: Poppins, serif;
+    width: 100%;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+.bg-darkorange {
+    background-color: darkorange !important;
+}
+
+.logo-img {
+    width: 80%;
+    height: auto;
+}
+
+.ml-nav {
+    margin-left: 50% !important;
+}
+.ml-2-nav {
+    margin-left: 90% !important;
+}
+
+.nav-item a {
+    color:white;
+    font-size: 1.15vw;
+}
+
+.nav-item a:hover {
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.95);
+}
+
+.black {
+    color: black !important;
+}
+
+.ml-21 {
+    margin-left: 21% !important;
+}
+
+.ml-25 {
+    margin-left: 25% !important;
+}
+
+.ml-50 {
+    margin-left: 55% !important;
+}
+
+.calendar-div {
+    width: 20vw;
+    height: 50vh;
+    background-color: white;
+}
+
+.piantina-div img {
+    width: 57vw;
+    height: 75vh;
+}
+
+.room-info-div {
+    width: 19vw;
+    height: 70vh;
+    background-color: white;
+}
+
+.ml-70 {
+    margin-left: 80% !important;
+}
+
+.btn-collapse {
+    width: 70%;
+    height: auto;
+    border-bottom: 2px solid #2d2d2d;
+}
+
+.btn-collapse a {
+    text-decoration: none;
+    color: #2d2d2d;
+}
+
+.person-div ul {
+    text-decoration: none;
+    list-style-type: none;
+    padding: 0;
+
+}
+
+.person-div li {
+    width: 70px;
+    height: 70px;
+    border: 1px solid #2d2d2d;
+    box-shadow: 0 0 12px 1px #2d2d2d;
+    border-radius: 50%;
+    margin: 15px 10px 0 15px;
+
+    float: left;
+}
+
+.person-div li img {
+    width: 70px;
+    height: 70px;
+    object-fit:cover;
+    border-radius:50%;
+}
+
+.bd-darkorange {
+    border: 1px solid darkorange !important;
+}
+
+area {
+    cursor: pointer;
+}
+
+.nav-link:hover {
+    color: darkorange;
+}
