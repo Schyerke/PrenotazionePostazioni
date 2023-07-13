@@ -1,4 +1,3 @@
-# PrenotazionePostazioni
 Gestisce le prenotazioni delle postazioni dell'azienda Omnia Group.
 
 ## Copia del progetto fatto durante lo stage in 4H insieme a
